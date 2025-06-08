@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ram
-- 👀 I’m interested in Data Science, Machine Learning, Data Analytics
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 👀 I’m interested in Data SCience and  Software Development
 - 💞️ I’m looking to collaborate on real world projects
 - Email:- thorativenkatasriram@gmail.com
